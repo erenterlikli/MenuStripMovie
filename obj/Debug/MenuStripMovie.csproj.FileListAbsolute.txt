@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\bin\Debug\MenuStripMovie.exe.config
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\bin\Debug\MenuStripMovie.exe
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\bin\Debug\MenuStripMovie.pdb
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.Form1.resources
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.Properties.Resources.resources
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.exe
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.pdb
+C:\Users\Eren\source\repos\MenuStripMovie\MenuStripMovie\obj\Debug\MenuStripMovie.csprojAssemblyReference.cache
